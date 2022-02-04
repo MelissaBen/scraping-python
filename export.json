@@ -1,724 +1,304 @@
 {
     "database": [
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                ",
-            "localisation": "MONTREUIL / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                ",
-            "localisation": "BOIS COLOMBES / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                ",
-            "localisation": "VILLEMOMBLE / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                ",
-            "localisation": "ANTONY / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                ",
-            "localisation": "GAGNY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                ",
-            "localisation": "ISSY LES MOULINEAUX / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                ",
-            "localisation": "FONTENAY SOUS BOIS / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                ",
-            "localisation": "DRANCY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                ",
-            "localisation": "ENGHIEN LES BAINS / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                ",
-            "localisation": "ARGENTEUIL / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                ",
-            "localisation": "ORMESSON SUR MARNE / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                ",
-            "localisation": "LE CHESNAY / 78",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                ",
-            "localisation": "MONTREUIL / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                ",
-            "localisation": "BOIS COLOMBES / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                ",
-            "localisation": "VILLEMOMBLE / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                ",
-            "localisation": "ANTONY / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                ",
-            "localisation": "GAGNY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                ",
-            "localisation": "ISSY LES MOULINEAUX / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                ",
-            "localisation": "FONTENAY SOUS BOIS / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                ",
-            "localisation": "DRANCY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                ",
-            "localisation": "ENGHIEN LES BAINS / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                ",
-            "localisation": "ARGENTEUIL / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                ",
-            "localisation": "ORMESSON SUR MARNE / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                ",
-            "localisation": "LE CHESNAY / 78",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                ",
-            "localisation": "MONTREUIL / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                ",
-            "localisation": "BOIS COLOMBES / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                ",
-            "localisation": "VILLEMOMBLE / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                ",
-            "localisation": "ANTONY / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                ",
-            "localisation": "GAGNY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                ",
-            "localisation": "ISSY LES MOULINEAUX / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                ",
-            "localisation": "FONTENAY SOUS BOIS / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                ",
-            "localisation": "DRANCY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                ",
-            "localisation": "ENGHIEN LES BAINS / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                ",
-            "localisation": "ARGENTEUIL / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                ",
-            "localisation": "ORMESSON SUR MARNE / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                ",
-            "localisation": "LE CHESNAY / 78",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                ",
-            "localisation": "MONTREUIL / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                ",
-            "localisation": "BOIS COLOMBES / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                ",
-            "localisation": "VILLEMOMBLE / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_35052_PRG_PHOT_35052.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                ",
-            "localisation": "ANTONY / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                ",
-            "localisation": "GAGNY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                ",
-            "localisation": "ISSY LES MOULINEAUX / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                ",
-            "localisation": "FONTENAY SOUS BOIS / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                ",
-            "localisation": "DRANCY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                ",
-            "localisation": "ENGHIEN LES BAINS / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                ",
-            "localisation": "ARGENTEUIL / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                ",
-            "localisation": "ORMESSON SUR MARNE / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                ",
-            "localisation": "LE CHESNAY / 78",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                ",
-            "localisation": "MONTREUIL / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                ",
-            "localisation": "BOIS COLOMBES / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                ",
-            "localisation": "VILLEMOMBLE / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                ",
-            "localisation": "ANTONY / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                ",
-            "localisation": "GAGNY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                ",
-            "localisation": "ISSY LES MOULINEAUX / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                ",
-            "localisation": "FONTENAY SOUS BOIS / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                ",
-            "localisation": "DRANCY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                ",
-            "localisation": "ENGHIEN LES BAINS / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                ",
-            "localisation": "ARGENTEUIL / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                ",
-            "localisation": "ORMESSON SUR MARNE / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                ",
-            "localisation": "LE CHESNAY / 78",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                ",
-            "localisation": "MONTREUIL / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                ",
-            "localisation": "BOIS COLOMBES / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                ",
-            "localisation": "VILLEMOMBLE / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                ",
-            "localisation": "ANTONY / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                ",
-            "localisation": "GAGNY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                ",
-            "localisation": "ISSY LES MOULINEAUX / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                ",
-            "localisation": "FONTENAY SOUS BOIS / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                ",
-            "localisation": "DRANCY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                ",
-            "localisation": "ENGHIEN LES BAINS / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                ",
-            "localisation": "ARGENTEUIL / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                ",
-            "localisation": "ORMESSON SUR MARNE / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                \n"
-        },
-        {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                ",
-            "localisation": "LE CHESNAY / 78",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_38239_PRG_PHOT_38239.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        LE CLOS DUROY\n                                                                    ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                        LE CLOS DUROY\n                                                                    \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                ",
-            "localisation": "MONTREUIL / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                \n"
+            "title": "\n                                                                    LE CLOS DUROY\n                                                            ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                    LE CLOS DUROY\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                ",
-            "localisation": "BOIS COLOMBES / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                \n"
+            "title": "\n                                                                    VERTU'OSE\n                                                            ",
+            "localisation": "NEUILLY PLAISANCE / 93",
+            "company": "\n\n                                                                    VERTU'OSE\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                ",
-            "localisation": "VILLEMOMBLE / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                \n"
+            "title": "\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                ",
-            "localisation": "ANTONY / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_35052_PRG_PHOT_35052.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                ",
-            "localisation": "GAGNY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_38239_PRG_PHOT_38239.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        LE CLOS DUROY\n                                                                    ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                        LE CLOS DUROY\n                                                                    \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                ",
-            "localisation": "ISSY LES MOULINEAUX / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                \n"
+            "title": "\n                                                                    LE CLOS DUROY\n                                                            ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                    LE CLOS DUROY\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                ",
-            "localisation": "FONTENAY SOUS BOIS / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                \n"
+            "title": "\n                                                                    VERTU'OSE\n                                                            ",
+            "localisation": "NEUILLY PLAISANCE / 93",
+            "company": "\n\n                                                                    VERTU'OSE\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                ",
-            "localisation": "DRANCY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                \n"
+            "title": "\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                ",
-            "localisation": "ENGHIEN LES BAINS / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_35052_PRG_PHOT_35052.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                ",
-            "localisation": "ARGENTEUIL / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_38239_PRG_PHOT_38239.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        LE CLOS DUROY\n                                                                    ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                        LE CLOS DUROY\n                                                                    \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                ",
-            "localisation": "ORMESSON SUR MARNE / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                \n"
+            "title": "\n                                                                    LE CLOS DUROY\n                                                            ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                    LE CLOS DUROY\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                ",
-            "localisation": "LE CHESNAY / 78",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                \n"
+            "title": "\n                                                                    VERTU'OSE\n                                                            ",
+            "localisation": "NEUILLY PLAISANCE / 93",
+            "company": "\n\n                                                                    VERTU'OSE\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                ",
-            "localisation": "MONTREUIL / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                \n"
+            "title": "\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                ",
-            "localisation": "BOIS COLOMBES / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_35052_PRG_PHOT_35052.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                ",
-            "localisation": "VILLEMOMBLE / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_38239_PRG_PHOT_38239.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        LE CLOS DUROY\n                                                                    ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                        LE CLOS DUROY\n                                                                    \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                ",
-            "localisation": "ANTONY / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                \n"
+            "title": "\n                                                                    LE CLOS DUROY\n                                                            ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                    LE CLOS DUROY\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                ",
-            "localisation": "GAGNY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                \n"
+            "title": "\n                                                                    VERTU'OSE\n                                                            ",
+            "localisation": "NEUILLY PLAISANCE / 93",
+            "company": "\n\n                                                                    VERTU'OSE\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                ",
-            "localisation": "ISSY LES MOULINEAUX / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                \n"
+            "title": "\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                ",
-            "localisation": "FONTENAY SOUS BOIS / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_35052_PRG_PHOT_35052.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                ",
-            "localisation": "DRANCY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_38239_PRG_PHOT_38239.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        LE CLOS DUROY\n                                                                    ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                        LE CLOS DUROY\n                                                                    \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                ",
-            "localisation": "ENGHIEN LES BAINS / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                \n"
+            "title": "\n                                                                    LE CLOS DUROY\n                                                            ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                    LE CLOS DUROY\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                ",
-            "localisation": "ARGENTEUIL / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                \n"
+            "title": "\n                                                                    VERTU'OSE\n                                                            ",
+            "localisation": "NEUILLY PLAISANCE / 93",
+            "company": "\n\n                                                                    VERTU'OSE\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                ",
-            "localisation": "ORMESSON SUR MARNE / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                \n"
+            "title": "\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                ",
-            "localisation": "LE CHESNAY / 78",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_35052_PRG_PHOT_35052.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                ",
-            "localisation": "MONTREUIL / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_38239_PRG_PHOT_38239.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        LE CLOS DUROY\n                                                                    ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                        LE CLOS DUROY\n                                                                    \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                ",
-            "localisation": "BOIS COLOMBES / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                \n"
+            "title": "\n                                                                    LE CLOS DUROY\n                                                            ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                    LE CLOS DUROY\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                ",
-            "localisation": "VILLEMOMBLE / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                \n"
+            "title": "\n                                                                    VERTU'OSE\n                                                            ",
+            "localisation": "NEUILLY PLAISANCE / 93",
+            "company": "\n\n                                                                    VERTU'OSE\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                ",
-            "localisation": "ANTONY / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                \n"
+            "title": "\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                ",
-            "localisation": "GAGNY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_35052_PRG_PHOT_35052.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                ",
-            "localisation": "ISSY LES MOULINEAUX / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_38239_PRG_PHOT_38239.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        LE CLOS DUROY\n                                                                    ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                        LE CLOS DUROY\n                                                                    \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                ",
-            "localisation": "FONTENAY SOUS BOIS / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                \n"
+            "title": "\n                                                                    LE CLOS DUROY\n                                                            ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                    LE CLOS DUROY\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                ",
-            "localisation": "DRANCY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                \n"
+            "title": "\n                                                                    VERTU'OSE\n                                                            ",
+            "localisation": "NEUILLY PLAISANCE / 93",
+            "company": "\n\n                                                                    VERTU'OSE\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                ",
-            "localisation": "ENGHIEN LES BAINS / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                \n"
+            "title": "\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                ",
-            "localisation": "ARGENTEUIL / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_35052_PRG_PHOT_35052.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                ",
-            "localisation": "ORMESSON SUR MARNE / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_38239_PRG_PHOT_38239.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        LE CLOS DUROY\n                                                                    ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                        LE CLOS DUROY\n                                                                    \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                ",
-            "localisation": "LE CHESNAY / 78",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                \n"
+            "title": "\n                                                                    LE CLOS DUROY\n                                                            ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                    LE CLOS DUROY\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                ",
-            "localisation": "MONTREUIL / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 99m\u00b2                                                                                                \n"
+            "title": "\n                                                                    VERTU'OSE\n                                                            ",
+            "localisation": "NEUILLY PLAISANCE / 93",
+            "company": "\n\n                                                                    VERTU'OSE\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                ",
-            "localisation": "BOIS COLOMBES / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 82m\u00b2                                                                                                \n"
+            "title": "\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                ",
-            "localisation": "VILLEMOMBLE / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 150m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_35052_PRG_PHOT_35052.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                ",
-            "localisation": "ANTONY / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 170m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_38239_PRG_PHOT_38239.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        LE CLOS DUROY\n                                                                    ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                        LE CLOS DUROY\n                                                                    \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                ",
-            "localisation": "GAGNY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 100m\u00b2                                                                                                \n"
+            "title": "\n                                                                    LE CLOS DUROY\n                                                            ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                    LE CLOS DUROY\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                ",
-            "localisation": "ISSY LES MOULINEAUX / 92",
-            "company": "\n\n                                                                                                            Maison/Villa  10 pi\u00e8ces de 166m\u00b2                                                                                                \n"
+            "title": "\n                                                                    VERTU'OSE\n                                                            ",
+            "localisation": "NEUILLY PLAISANCE / 93",
+            "company": "\n\n                                                                    VERTU'OSE\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                ",
-            "localisation": "FONTENAY SOUS BOIS / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 190m\u00b2                                                                                                \n"
+            "title": "\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                ",
-            "localisation": "DRANCY / 93",
-            "company": "\n\n                                                                                                            Maison/Villa  5 pi\u00e8ces de 120m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_35052_PRG_PHOT_35052.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                        ANDILLY BERCH\u00c8RE\n                                                                    \n"
         },
         {
-            "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                ",
-            "localisation": "ENGHIEN LES BAINS / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  3 pi\u00e8ces de 75.7m\u00b2                                                                                                \n"
+            "image": "https://media2-js.nexity.fr/3_0038_38239_PRG_PHOT_38239.jpg?width=105&height=105&default_img=appartement.jpg",
+            "title": "\n                                                                        LE CLOS DUROY\n                                                                    ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                        LE CLOS DUROY\n                                                                    \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                ",
-            "localisation": "ARGENTEUIL / 95",
-            "company": "\n\n                                                                                                            Maison/Villa  7 pi\u00e8ces de 135m\u00b2                                                                                                \n"
+            "title": "\n                                                                    LE CLOS DUROY\n                                                            ",
+            "localisation": "LE BLANC MESNIL / 93",
+            "company": "\n\n                                                                    LE CLOS DUROY\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                ",
-            "localisation": "ORMESSON SUR MARNE / 94",
-            "company": "\n\n                                                                                                            Maison/Villa  6 pi\u00e8ces de 140m\u00b2                                                                                                \n"
+            "title": "\n                                                                    VERTU'OSE\n                                                            ",
+            "localisation": "NEUILLY PLAISANCE / 93",
+            "company": "\n\n                                                                    VERTU'OSE\n                                                            \n"
         },
         {
             "image": "https://media.nexity.fr/picto/information_picto_blanc.svg",
-            "title": "\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                ",
-            "localisation": "LE CHESNAY / 78",
-            "company": "\n\n                                                                                                            Maison/Villa  4 pi\u00e8ces de 83.81m\u00b2                                                                                                \n"
+            "title": "\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            ",
+            "localisation": "ANDILLY / 95",
+            "company": "\n\n                                                                    ANDILLY BERCH\u00c8RE\n                                                            \n"
         }
     ]
 }
