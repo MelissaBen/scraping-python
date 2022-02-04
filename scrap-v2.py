@@ -20,6 +20,9 @@ file.write('''<!DOCTYPE html>
 
 <body >''')
 
+dataJson = []
+
+
 for counter in range(10, 110, 10):
 
     page = requests.get(f'https://www.nexity.fr/annonces-immobilieres/achat-vente/{typeAchat}/{typeAnciennete}/{city}')
@@ -52,15 +55,12 @@ for counter in range(10, 110, 10):
             </div>   
   ''')
   
-    dataJson = []
-
-    dataJson.append({
-        'image' : image,
-        'title' : title.text,
-        'localisation' : localisation.text,
-        'price' : price.text,
-        'company' : company.text,
-    })
+        dataJson.append({
+            'image' : image,
+            'title' : title.text,
+            'localisation' : localisation.text,
+            'company' : company.text,
+        })
 
 file.write('''
 </body>

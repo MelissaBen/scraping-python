@@ -48,16 +48,14 @@ for counter in range(10, 110, 10):
                     <li class="list-group-item"><span class="text-primary">Localisation  </span>{localisation.text}</li>
                     <li class="list-group-item text-success"> À partir de : {f' {price.text}</li>' if price else ""}
                 </ul>
-            </div>   
-  ''')
-
-    dataJson.append({
-        'image' : image,
-        'title' : title.text,
-        'localisation' : localisation.text,
-        'price' : price.text,
-        'company' : company.text,
-    })
+                    </div>   
+        ''')
+        dataJson.append({
+            'image' : image,
+            'title' : title.text,
+            'localisation' : localisation.text,
+            'company' : company.text,
+        })
 
 file.write('''
 </body>
@@ -67,5 +65,3 @@ json_data = {'database' : dataJson}
 
 with open('export.json', 'w') as outfile:
     json.dump(json_data, outfile)
-
-
