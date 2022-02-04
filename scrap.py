@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import json 
 
 
 file= open("main.html", "w")
@@ -15,6 +16,9 @@ file.write('''<!DOCTYPE html>
 
 <body >''')
 
+dataJson = []   
+
+
 for counter in range(10, 110, 10):
 
     page = requests.get('https://www.nexity.fr/annonces-immobilieres/achat-vente')
@@ -26,8 +30,8 @@ for counter in range(10, 110, 10):
     for result in results:
         contentAnnonce = result.find("div" , class_="content-annonce")
         image = result.find("img")["src"]
-        location = result.find("div", class_="sub-title")
-        salary = result.find("div", class_="inter-description")
+        localisation = result.find("div", class_="sub-title")
+        price = result.find("div", class_="inter-description")
         company = result.find("a", class_="offer-link")
         title = result.find("div", class_="title")
         titleText = title.text
@@ -41,12 +45,27 @@ for counter in range(10, 110, 10):
                     <h5 class="card-title btn btn-primary">{titleText}</h5>
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item"><span class="text-primary">Localisation  </span>{location.text}</li>
-                    <li class="list-group-item text-success"> À partir de : {f' {salary.text}</li>' if salary else ""}
+                    <li class="list-group-item"><span class="text-primary">Localisation  </span>{localisation.text}</li>
+                    <li class="list-group-item text-success"> À partir de : {f' {price.text}</li>' if price else ""}
                 </ul>
             </div>   
   ''')
 
+    dataJson.append({
+        'image' : image,
+        'title' : title.text,
+        'localisation' : localisation.text,
+        'price' : price.text,
+        'company' : company.text,
+    })
+
 file.write('''
 </body>
 </html>''')
+ 
+json_data = {'database' : dataJson}
+
+with open('export.json', 'w') as outfile:
+    json.dump(json_data, outfile)
+
+
