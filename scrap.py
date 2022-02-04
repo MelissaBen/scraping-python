@@ -25,9 +25,8 @@ for counter in range(10, 110, 10):
 
     for result in results:
         contentAnnonce = result.find("div" , class_="content-annonce")
-        image = result.find("img" , attrs_="src")
+        image = result.find("img")["src"]
         location = result.find("div", class_="sub-title")
-        image = result.find("img", loading_="lazy")
         salary = result.find("div", class_="inter-description")
         company = result.find("a", class_="offer-link")
         title = result.find("div", class_="title")
@@ -37,12 +36,13 @@ for counter in range(10, 110, 10):
         file.write(f'''
             <div class="card m-4 p-2 m-auto  border border-primary" style="width: 50rem;">
                 <div class="card-body">
+                    <img  src="{image}" alt="Card image cap" style="width:100px; height:100px">
                     <p class="card-text  "><span class="text-danger">Les informations de l'annonce : </span>{contentAnnonce.text}</p>
                     <h5 class="card-title btn btn-primary">{titleText}</h5>
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item"><span class="text-primary">Programme immobilier à  </span>{location.text}</li>
-                    <li class="list-group-item text-success">{f' {salary.text}</li>' if salary else ""}
+                    <li class="list-group-item"><span class="text-primary">Localisation  </span>{location.text}</li>
+                    <li class="list-group-item text-success"> {f' {salary.text}</li>' if salary else ""}
                 </ul>
             </div>   
   ''')
