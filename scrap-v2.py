@@ -1,5 +1,10 @@
 import requests
+import json 
 from bs4 import BeautifulSoup
+
+city=input("Entrez la ville : ")
+typeAchat=input("Entrez le type d'achat , exemple ( maison / appartement / terrain / chateau ... ) : ")
+typeAnciennete=input("Cherchez vous un programme neuf ou ancien ? : ")
 
 
 file= open("main.html", "w")
@@ -17,7 +22,7 @@ file.write('''<!DOCTYPE html>
 
 for counter in range(10, 110, 10):
 
-    page = requests.get('https://www.nexity.fr/annonces-immobilieres/achat-vente')
+    page = requests.get(f'https://www.nexity.fr/annonces-immobilieres/achat-vente/{typeAchat}/{typeAnciennete}/{city}')
 
     soupdata = BeautifulSoup(page.content, "html.parser")
 
